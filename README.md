@@ -5,5 +5,6 @@
 <li><a href="https://github.com/deadshotgo/java-course/tree/main/Java3">Лабораторна робота 3</a> </li>
 <li><a href="https://github.com/deadshotgo/java-course/tree/main/Java4_1">Лабораторна робота 4_1</a> </li>
 <li><a href="https://github.com/deadshotgo/java-course/tree/main/Javva5">Лабораторна робота 5</a> </li>
+<li><a href="https://github.com/deadshotgo/java-course/tree/main/Java6">Лабораторна робота 6</a> </li>
   </ul>
 </div>
